@@ -1,0 +1,38 @@
+title = "Matt Pudig"
+baseURL = "https://mpudig.github.io/"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = true          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "Olivier Roques"
+  description = "A simple monospaced resume theme for Hugo."
+  logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = ""
+    url = ""
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    fontSize = "18pt"
+    pageWidth = "1350px"
+    avatarSize = "205px"
+    colorBlack = "#222222"
+    colorRed = "#64a6f9"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "about"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "contact"
+    url = "/contact"
+    weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files

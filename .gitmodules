@@ -1,0 +1,4 @@
+[submodule "mpudig/public"]
+	path = mpudig/public
+	url = https://github.com/mpudig/mpudig.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://mpudig.github.io/'
+languageCode = 'en-us'
+title = 'matt pudig'
+theme = 'researcher'
