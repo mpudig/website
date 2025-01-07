@@ -1,5 +1,5 @@
 +++
-title = "about"
+title = "home"
 +++
 
 ## About Me
