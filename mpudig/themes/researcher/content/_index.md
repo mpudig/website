@@ -12,8 +12,8 @@ I am interested in ocean dynamics and the ocean's role in climate, and seek to b
 
 ## Publications
 
-1. MP and K. Shafer Smith: *Baroclinic Turbulence Above Rough Topography: The Vortex Gas and Topographic Turbulence Regimes* ([preprint](https://essopenarchive.org/users/788821/articles/1121326-baroclinic-turbulence-above-rough-topography-the-vortex-gas-and-topographic-turbulence-regimes))
-2. MP, Claire Yung, Jan Zika, Ryan Holmes: *Rectified Ocean Heat Uptake from Oscillatory Surface Forcing* ([paper](https://journals.ametsoc.org/view/journals/clim/36/8/JCLI-D-22-0267.1.xml))
+1. MP and K. Shafer Smith: *Baroclinic turbulence above rough topography: The vortex gas and topographic turbulence regimes* ([paper](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0110.1/JPO-D-24-0110.1.xml))
+2. MP, Claire Yung, Jan Zika, Ryan Holmes: *Rectified ocean heat uptake from oscillatory surface forcing* ([paper](https://journals.ametsoc.org/view/journals/clim/36/8/JCLI-D-22-0267.1.xml))
 
 ## Education
 
