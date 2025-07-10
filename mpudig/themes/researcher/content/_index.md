@@ -8,7 +8,7 @@ title = "home"
 
 I am a PhD candidate in the Center for Atmosphere Ocean Science ([CAOS](https://caos.cims.nyu.edu/dynamic/)), housed within NYU’s Courant Institute of Mathematical Sciences. 
 
-I am interested in ocean dynamics and the ocean's role in climate, and seek to build physical understanding through a combination of theory and computational modelling of varying complexity. I am particularly motivated by how ocean processes can be better represented in global climate models.
+I am interested in ocean dynamics and the ocean's role in climate, and seek to build physical understanding through theory and computational modelling of varying complexity. I am particularly motivated by how ocean processes can be better represented in global climate models.
 
 ## Publications
 
