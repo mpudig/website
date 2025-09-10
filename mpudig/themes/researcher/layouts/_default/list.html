@@ -2,8 +2,10 @@
 <div class="container">
     <h1>{{ .Title }}</h1>
     <ul>
-        {{ range .Pages }}
-            <li><a href="{{ .Permalink }}">{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a></li>
+        {{ $pages := .Pages.ByDate }}             
+        {{ $count := len $pages }}                
+        {{ range $i, $p := $pages.Reverse }}
+            <li>[{{ sub $count $i }}] <a href="{{ $p.Permalink }}">{{ $p.Title }}</a></li>
         {{ end }}
     </ul>
 </div>
