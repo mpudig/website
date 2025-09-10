@@ -7,3 +7,5 @@ theme = 'researcher'
   author = "Matt Pudig"
   description = "my personal website"
   favicon = "favicon.ico"
+  customCSS = ["css/custom.css"]
+

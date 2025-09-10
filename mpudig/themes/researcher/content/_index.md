@@ -12,9 +12,11 @@ I am interested in ocean dynamics and the ocean's role in climate, and seek to b
 
 ## Publications
 
-3. **Pudig, M. P.**, Zhang, W., Smith, K. S., Zanna, L. Parameterizing isopycnal mixing via kinetic energy backscatter in an eddy-permitting ocean model. Submitted to *Journal of Advances in Modeling Earth Systems*
-2. **Pudig, M. P.**, & Smith, K. S. (2025). [Baroclinic turbulence above rough topography: The vortex gas and topographic turbulence regimes](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0110.1/JPO-D-24-0110.1.xml). *Journal of Physical Oceanography*, 55(5), 611-630.
-1. **Pudig, M. P.**, Yung, C. K., Zika, J. D., & Holmes, R. M. (2023). [Rectified ocean heat uptake from oscillatory surface forcing](https://journals.ametsoc.org/view/journals/clim/36/8/JCLI-D-22-0267.1.xml). *Journal of Climate*, 36(8), 2663-2680.
+<ol class="pub-list">
+<li>**Pudig, M. P.**, Zhang, W., Smith, K. S., Zanna, L. Parameterizing isopycnal mixing via kinetic energy backscatter in an eddy-permitting ocean model. Submitted to *Journal of Advances in Modeling Earth Systems*</li>
+</li>**Pudig, M. P.**, & Smith, K. S. (2025). [Baroclinic turbulence above rough topography: The vortex gas and topographic turbulence regimes](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0110.1/JPO-D-24-0110.1.xml). *Journal of Physical Oceanography*, 55(5), 611-630.</li>
+</li>**Pudig, M. P.**, Yung, C. K., Zika, J. D., & Holmes, R. M. (2023). [Rectified ocean heat uptake from oscillatory surface forcing](https://journals.ametsoc.org/view/journals/clim/36/8/JCLI-D-22-0267.1.xml). *Journal of Climate*, 36(8), 2663-2680.</li>
+</ol>
 
 ## Education
 
