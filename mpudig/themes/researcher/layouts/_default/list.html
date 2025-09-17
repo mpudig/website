@@ -4,7 +4,7 @@
     <ul>
         {{ $pages := .Pages.ByDate }}             
         {{ $count := len $pages }}                
-        {{ range $i, $p := $pages.Reverse }}
+        {{ range $i, $p := $pages }}
             <li>[{{ sub $count $i }}] <a href="{{ $p.Permalink }}">{{ $p.Title }}</a></li>
         {{ end }}
     </ul>
