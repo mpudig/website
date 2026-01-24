@@ -4,7 +4,7 @@ title = "home"
 
 ## About Me
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/me.jpg" alt="avatar">}}
 
 I am a PhD candidate in the Center for Atmosphere Ocean Science ([CAOS](https://caos.cims.nyu.edu/dynamic/)), housed within NYU’s Courant Institute of Mathematical Sciences. 
 
