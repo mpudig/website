@@ -2,8 +2,6 @@
 title = "contact"
 +++
 
-Please feel free to get in touch!
-
 **email**: matthew (dot) pudig (at) nyu (dot) edu
 
 ---
